@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Introduction 🪟 - Creating and Using a Resource</h1>
-This section outlines the process of Getting Established in Azure, Creating and Using Resources.<br />
+This section outlines the process of Getting Established in Azure, Creating and Using Resources.<br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -107,9 +107,7 @@ This section outlines the process of Getting Established in Azure, Creating and 
 <img src="https://i.imgur.com/5JrM752.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-
-
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
 
 
 
